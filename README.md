@@ -8,6 +8,6 @@ This repository is for the the first capstone projected I completed during DataS
 
 ## Important Files
 
-- Detailed report is [here] (https://github.com/siddhantgithub/Capstone-Mountain_Resort_Analysis/blob/master/Guided%20Capstone%20Project%20Report.pdf)
+- Detailed report is [here](https://github.com/siddhantgithub/Capstone-Mountain_Resort_Analysis/blob/master/Guided%20Capstone%20Project%20Report.pdf)
 - Executive deck is [here](https://github.com/siddhantgithub/Capstone-Mountain_Resort_Analysis/blob/master/Big%20Mountain%20Resort_executive_deck.pdf)
-- Jupyter notebooks are here (https://github.com/siddhantgithub/Capstone-Mountain_Resort_Analysis/tree/master/Notebooks)
+- Jupyter notebooks are [here](https://github.com/siddhantgithub/Capstone-Mountain_Resort_Analysis/tree/master/Notebooks)
